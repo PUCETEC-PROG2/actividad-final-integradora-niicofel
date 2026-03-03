@@ -223,12 +223,11 @@ trabajo-final/
 
 Debe incluir:
 
--   Nombre del proyecto
--   Integrantes
--   Temática elegida
--   Descripción del proyecto
--   Capturas de pantalla
--   Enlace al sitio desplegado en GitHub Pages
+-   Nombre del proyecto: Red Goat Eyes
+-   Integrantes: Felipe Nicolas Campos Cisneros / Elian Emanuel Valenzuela Alvarez
+-   Temática elegida: Ropa Urbana
+-   Descripción del proyecto: El proyecto es una pagina web dedicada a una tienda de ropa de invención propia.
+-   Enlace al sitio desplegado en GitHub Pages: 
 
 ------------------------------------------------------------------------
 
